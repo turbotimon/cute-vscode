@@ -10,7 +10,7 @@
 - Unterordner `cute` für Cute Files und `src` für alles andere (eure Code)
 
 ## CMakeLists.txt anpassen
-- Die mit `--> .. <--` markierten Orte müssen eventuell auf eure Installation angepasst werden.
+- Die mit `--> .. <--` markierten Orte müssen eventuell auf eure Projekt und eure Installation angepasst werden.
 
 ## Projekt kompillieren und laufen lassen
 - Rechtsklick auf Hauptordner und *in Visuals Studio Code* öffnen 
