@@ -19,4 +19,5 @@
 - In der Taskleiste auf **Build [all]** klicken. Danach auf **Run** klicken. Sollte laufen in der Konsole laufen..
 
 ## Hilfe
+- Bei Problemen den `build` zu löschen und neu starten
 - https://code.visualstudio.com/docs/cpp/cmake-linux
